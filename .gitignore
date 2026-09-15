@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+clothing-dataset-small/
+
+
+src/models/*.keras
+!src/models/xception_69-0.81.keras
